@@ -1,0 +1,14 @@
+[
+  {
+    "type": 320,
+    "client": { "name": "דנה כהן", "emails": ["dana@example.com"] },
+    "income": [ { "description": "קורס דיגיטלי", "quantity": 1, "price": 129, "vatType": 1 } ],
+    "payment": [ { "type": 3, "price": 129 } ]
+  },
+  {
+    "type": 320,
+    "client": { "name": "יוסי לוי", "emails": ["yossi@example.com"] },
+    "income": [ { "description": "קורס דיגיטלי", "quantity": 1, "price": 129, "vatType": 1 } ],
+    "payment": [ { "type": 10, "price": 129 } ]
+  }
+]

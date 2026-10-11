@@ -1,0 +1,12 @@
+{
+  "type": 300,
+  "client": {
+    "name": "חברת דוגמה טכנולוגיות בע\"מ",
+    "taxId": "516666666",
+    "emails": ["finance@example.com"]
+  },
+  "dueDate": "2026-11-30",
+  "income": [
+    { "description": "בנק שעות - ליווי פרויקט AI", "quantity": 10, "price": 600, "vatType": 0 }
+  ]
+}

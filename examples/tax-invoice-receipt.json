@@ -1,0 +1,16 @@
+{
+  "type": 320,
+  "client": {
+    "name": "סטודיו לדוגמה בע\"מ",
+    "taxId": "515555555",
+    "emails": ["billing@example.co.il"],
+    "address": "הרצל 1",
+    "city": "תל אביב"
+  },
+  "income": [
+    { "description": "סדנת AI לצוות שיווק", "quantity": 1, "price": 3540, "vatType": 1 }
+  ],
+  "payment": [
+    { "type": 10, "price": 3540 }
+  ]
+}
